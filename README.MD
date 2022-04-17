@@ -4,7 +4,7 @@ This is basically my various different attempts at challenges offered on the won
 
 ## Projects
 
-- Stats preview card component - [README](Stats%20preview%20card%20component/README.md)
+- View all projects [here](https://frontendmentor.ollee.dev/)
 
 ### Skills focused on
 
@@ -17,3 +17,4 @@ This is basically my various different attempts at challenges offered on the won
 
 - Frontend Mentor Profile - [@OliMations](https://www.frontendmentor.io/profile/OliMations)
 - Website - [JakeBot](https://jakebot.co.uk)
+- Another Website - [Ollee](https://frontendmentor.ollee.dev/)
